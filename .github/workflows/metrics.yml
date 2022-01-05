@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
-  github-metrics:
+  github-metrics-classic:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
@@ -18,7 +18,7 @@ jobs:
           plugin_repositories_featured: Dragonlord1005/python-text-based-game-framework
           plugin_skyline: yes
           plugin_skyline_year: 2021            # Set to 0 to display current year
-          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
+          plugin_skyline_frames: 30         # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5       # Set image quality
           plugin_skyline_compatibility: yes
           plugin_achievements: yes
