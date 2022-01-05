@@ -18,7 +18,7 @@ I am a young teenager who has been trying to learn to program.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Discord Bot](https://github.com/Dragonlord1005/discord.js)  
+- 🔭 I’m currently working on a [Discord Bot](https://github.com/Dragonlord1005/discord-bot)  
   
 
 - 🌱 I’m currently learning Javascript, Python, and Linux!  
