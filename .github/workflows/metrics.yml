@@ -21,3 +21,9 @@ jobs:
           plugin_skyline_frames: 60         # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5       # Set image quality
           plugin_skyline_compatibility: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: 6
+          plugin_achievements_secrets: no
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+          
