@@ -65,6 +65,8 @@ I am a young teenager who has been trying to learn to program.
 
 <br/>  
 
+![Metrics](https://github.com/Dragonlord1005/Dragonlord1005/blob/master/github-metrics.svg)
+
   
 
 <br/>  
