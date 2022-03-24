@@ -6,8 +6,7 @@
 </a>  
   
 
-### Glad to see you here!  
-I am a young teenager who has been trying to learn to program.   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&multiline=true&width=500&height=75&lines=Welcome+to+my+Github+Profile!;I+am+a+young+teenager+learning+to+program!)](https://git.io/typing-svg)
 
 ![Metrics](https://github.com/Dragonlord1005/Dragonlord1005/blob/master/github-metrics.svg)
 
