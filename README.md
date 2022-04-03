@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&multiline=true&width=500&height=75&lines=Welcome+to+my+Github+Profile!;I+am+a+young+teenager+learning+to+program!)](https://git.io/typing-svg)
 
-![Metrics](https://github.com/Dragonlord1005/Dragonlord1005/blob/master/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dragonlord1005&&style=flat-square)  
