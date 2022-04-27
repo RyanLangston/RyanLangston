@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1217" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1206" class="">
     <defs>
         <style/>
     </defs>
@@ -508,31 +508,6 @@
                     <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 15.494863442746178%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 7.5436398563434395%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 3.748433976447006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Nix</span>
-                                <div class="bar" style="width: 0.9955733734235362%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.026726801971101645%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -699,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 04:18:17 (timezone America/Denver) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 06:28:32 (timezone America/Denver) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
