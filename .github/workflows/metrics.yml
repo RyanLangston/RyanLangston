@@ -15,7 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
-          plugin_repositories_featured: Dragonlord1005/python-text-based-game-framework, Dragonlord1005/discord-bot, Dragonlord1005/next-boi
+          plugin_repositories_featured: Dragonlord1005/Personal-Python-Roguelike, Dragonlord1005/next-boi
           plugin_achievements: yes
           #plugin_achievements_threshold: 6
           plugin_achievements_secrets: 0
